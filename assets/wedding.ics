@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Seba and Brian//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:seba-brian-wedding-2026@invitation
+DTSTAMP:20260927T100000Z
+DTSTART;TZID=Asia/Kolkata:20261227T150000
+DTEND;TZID=Asia/Kolkata:20261227T163000
+SUMMARY:Wedding of Seba & Brian
+LOCATION:Mar Elia Cathedral\, Manorama Junction\, Near Baselius College\, K.K Road\, Kottayam\, Kerala 686001
+DESCRIPTION:Holy Matrimony at 3:00 PM at Mar Elia Cathedral\, Kottayam. Reception follows at Palmgrove Holidays\, Vrindhavanam\, Moolavattom\, Nattakom\, Kottayam\, Kerala 686013.
+END:VEVENT
+END:VCALENDAR
